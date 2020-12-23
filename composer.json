@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php": "^7.4|^8.0",
+        "nddcoder/tinyurl-php-sdk": "dev-master",
+        "symfony/polyfill-php80": "^1.20"
+    },
+    "autoload": {
+        "files": [
+            "functions.php"
+        ]
+    }
+}
